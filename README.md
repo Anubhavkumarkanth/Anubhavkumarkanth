@@ -1,7 +1,7 @@
 ## Hi, I'm Anubhav Kumar
 
-Early-career software engineer working in Python, SQL, data analysis and machine learning.
-Final-year B.E. (ECE) at NMIT Bangalore, Class of 2026.
+Early-career software engineer working in JAVA, Python, SQL, data analysis and machine learning.
+Final-year B.E. (ECE) at NMIT Bangalore, Aug 2022- Sept 2026.
 
 **Portfolio:** [anubhav-kumar.vercel.app](https://anubhav-kumar.vercel.app)
 
@@ -13,6 +13,6 @@ Final-year B.E. (ECE) at NMIT Bangalore, Class of 2026.
 
 ### Looking for
 
-Software Engineer, Python / Backend Developer, Data Analyst and Data Scientist roles.
+Software Engineer, Python Developer, SQL Developer, Full-Stack Developer, Data Analyst and Data Scientist roles.
 
 **LinkedIn:** [linkedin.com/in/anubhavkumar021](https://www.linkedin.com/in/anubhavkumar021)
