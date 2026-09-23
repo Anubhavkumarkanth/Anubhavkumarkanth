@@ -1,8 +1,6 @@
 ## Hi, I'm Anubhav Kumar
 
-> **About my contribution graph:** I lost my previous GitHub account, and its commit history, when the Google account behind it was banned. In Sep 2026 I rebuilt the history of DietBot, SIP Friction Analyzer and Order Management System from the finished code. The code and the order of the work are real; commit dates before Sep 2026 are reconstructed, not the originals.
-
-Early-career software engineer working in JAVA, Python, SQL, data analysis and machine learning.
+> Early-career software engineer working in JAVA, Python, SQL, data analysis and machine learning.
 Final-year B.E. (ECE) at NMIT Bangalore, Aug 2022- Sept 2026.
 
 **Portfolio:** [anubhav-kumar.vercel.app](https://anubhav-kumar.vercel.app)
