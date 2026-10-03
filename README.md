@@ -7,6 +7,7 @@ Final-year B.E. (ECE) at NMIT Bangalore, Aug 2022- Sept 2026.
 
 ### Projects
 
+- **[Bharat Lens](https://github.com/Anubhavkumarkanth/Bharat-lens)**: Next.js + TypeScript + PostgreSQL news reader that pulls Indian and world news from 35 print and wire sources, shows each wire story once instead of once per outlet, and works in English or Hindi.
 - **[SIP Friction Analyzer](https://github.com/Anubhavkumarkanth/sip-friction-analyzer)**: FastAPI + PostgreSQL simulator that measures what missed SIP contributions cost, with Monte Carlo ranges.
 - **[Dietbot](https://github.com/Anubhavkumarkanth/Dietbot_For_Athletes)**: calorie-intake model built from raw CDC health data (4,624 adults), tested against standard formulas.
 - **[Order Management System](https://github.com/Anubhavkumarkanth/order-management-system)**: Core Java + JDBC on PostgreSQL, with transactional orders and hand-written SQL reports.
