@@ -1,19 +1,18 @@
 ## Hi, I'm Anubhav Kumar
 
-> Early-career software engineer working in JAVA, Python, SQL, data analysis and machine learning.
-Final-year B.E. (ECE) at NMIT Bangalore, Aug 2022- Sept 2026.
+> 2026 B.E. graduate (Electronics and Communication Engineering, NMIT Bengaluru, Sep 2022 to Aug 2026). I build and test Python applications with FastAPI, PostgreSQL, SQL, pandas and scikit-learn, and I did one three-month Java Spring Boot internship.
 
 **Portfolio:** [anubhav-kumar.vercel.app](https://anubhav-kumar.vercel.app)
 
 ### Projects
 
-- **[Bharat Lens](https://github.com/Anubhavkumarkanth/Bharat-lens)**: Next.js + TypeScript + PostgreSQL news reader that pulls Indian and world news from 35 print and wire sources, shows each wire story once instead of once per outlet, and works in English or Hindi.
 - **[SIP Friction Analyzer](https://github.com/Anubhavkumarkanth/sip-friction-analyzer)**: FastAPI + PostgreSQL simulator that measures what missed SIP contributions cost, with Monte Carlo ranges.
-- **[Dietbot](https://github.com/Anubhavkumarkanth/Dietbot_For_Athletes)**: calorie-intake model built from raw CDC health data (4,624 adults), tested against standard formulas.
+- **[Dietbot](https://github.com/Anubhavkumarkanth/Dietbot_For_Athletes)**: a notebook prototype I inherited and rebuilt into a tested pipeline on raw CDC health data (4,624 adults); the model is compared with standard formulas and a linear regression, and its limits are documented.
+- **[Bharat Lens](https://github.com/Anubhavkumarkanth/Bharat-lens)**: Next.js + TypeScript + PostgreSQL news reader that pulls Indian and world news from 35 print and wire sources, shows each wire story once instead of once per outlet, and works in English or Hindi.
 - **[Order Management System](https://github.com/Anubhavkumarkanth/order-management-system)**: Core Java + JDBC on PostgreSQL, with transactional orders and hand-written SQL reports.
 
 ### Looking for
 
-Software Engineer, Python Developer, SQL Developer, Full-Stack Developer, Data Analyst and Data Scientist roles.
+Entry-level Python Developer, Backend Developer, Software Engineer, Full-Stack Developer and Data Analyst roles.
 
 **LinkedIn:** [linkedin.com/in/anubhavkumar021](https://www.linkedin.com/in/anubhavkumar021)
