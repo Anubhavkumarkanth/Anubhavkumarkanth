@@ -10,6 +10,7 @@
 - **[Dietbot](https://github.com/Anubhavkumarkanth/Dietbot_For_Athletes)**: a notebook prototype I inherited and rebuilt into a tested pipeline on raw CDC health data (4,624 adults); the model is compared with standard formulas and a linear regression, and its limits are documented.
 - **[Bharat Lens](https://github.com/Anubhavkumarkanth/Bharat-lens)**: Next.js + TypeScript + PostgreSQL news reader that pulls Indian and world news from 35 print and wire sources, shows each wire story once instead of once per outlet, and works in English or Hindi.
 - **[Order Management System](https://github.com/Anubhavkumarkanth/order-management-system)**: Core Java + JDBC on PostgreSQL, with transactional orders and hand-written SQL reports.
+- **[Smart Irrigation Node](https://github.com/Anubhavkumarkanth/smart-irrigation-node)**: ESP32 firmware in C++ that waters a plant from a soil-moisture sensor, stops the pump when the tank is empty, and reports over MQTT; the control logic is unit tested.
 
 ### Looking for
 
