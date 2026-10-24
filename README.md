@@ -6,7 +6,7 @@
 
 ### Start here
 
-- **Data Analyst: [Retail Cancellation Leakage](https://github.com/Anubhavkumarkanth/retail-cancellation-leakage)**: SQL and Python analysis of 1.07 million retail transaction rows. Shows that about half of the cancelled value is same-day order reversals, so the headline 3.65% cancellation rate is 1.88% once they are separated. Bootstrap confidence intervals, a live HTML dashboard ([open it](https://anubhavkumarkanth.github.io/retail-cancellation-leakage/)), an Excel summary and 22 tests.
+- **Data Analyst: [Retail Cancellation Leakage](https://github.com/Anubhavkumarkanth/retail-cancellation-leakage)**: SQL and Python analysis of 1.07 million rows of real sales from a UK online gift retailer. About half of the cancelled value turned out to be orders reversed within 24 hours, so leaving those out cuts the cancellation rate from 3.65% to 1.88%. Includes a [live dashboard](https://anubhavkumarkanth.github.io/retail-cancellation-leakage/), an Excel summary, confidence ranges for the customer and country figures, and 22 automated tests.
 - **QA: [Orderdesk QA Suite](https://github.com/Anubhavkumarkanth/orderdesk-qa-suite)**: 86 pytest and Playwright tests (API, SQL and browser) for an order service with 8 deliberately seeded defects, each with a reproducible bug report, plus a test plan, traceability and CI.
 
 ### More projects
