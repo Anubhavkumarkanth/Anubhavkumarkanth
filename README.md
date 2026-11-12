@@ -1,6 +1,6 @@
 ## Hi, I'm Anubhav Kumar
 
-> 2026 B.E. graduate (Electronics and Communication Engineering, NMIT Bengaluru, Sep 2022 to Aug 2026), looking for entry-level **Data Analyst** roles in Bengaluru, elsewhere in India, or remote. I work in SQL, Python (pandas) and Power BI, and I test my analysis with pytest before I publish it.
+> 2026 B.E. graduate (Electronics and Communication Engineering, NMIT Bengaluru, Aug 2022 to Aug 2026), looking for entry-level **Data Analyst** roles in Bengaluru, elsewhere in India, or remote. I work in SQL, Python (pandas) and Power BI, and I test my analysis with pytest before I publish it.
 
 **Portfolio:** [anubhav-kumar.vercel.app](https://anubhav-kumar.vercel.app)
 
